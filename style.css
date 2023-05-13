@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+body {
+  font-family: "Playfair Display", serif;
+}
+.main-section {
+  width: 100%;
+  background-image: url("./assets/executive-smiling-with-laptop\ 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 912px;
+}
+.nav-item {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0px 14px 0px 14px;
+}
+.nav-active {
+  background-color: #a99f4d;
+  padding: 1px 30px 1px 30px;
+}
+.container {
+  /* margin: auto; */
+  width: 1440px;
+}
+
+.logo {
+  width: 143px;
+  height: 88px;
+}
+
+.pt-navbar {
+  padding-top: 94px;
+}
+
+.slide {
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  background-image: url(./assets/images/executive-smiling-with-laptop\ 1.png);
+}
+
+.slide-text-area {
+  margin-top: 200px;
+}
+.slide-title {
+  font-size: 90px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -0.06em;
+  text-align: center;
+  color: #1f3d4c;
+}
+
+.slide-section {
+  margin-top: 22px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.second {
+  margin-left: 92px;
+  /* height: 679px; */
+  margin-right: 80px;
+}
+.second-text-area {
+  margin-top: 153px;
+  margin-bottom: 120px;
+}
+.text-title {
+  font-size: 90px;
+  line-height: 80px;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #1f3d4c;
+}
+
+.text-description {
+  margin-top: 36px;
+}
+/* .second-picture { */
+/* margin-left: 30px; */
+/* } */
+.shadow_image {
+  position: absolute;
+  background-color: #98d9f7;
+  top: 833px;
+  margin-left: 16px;
+  width: 503px;
+  height: 521px;
+  z-index: 4;
+}
+.learn_more_btn {
+  background-color: #a99f4d;
+  margin-top: 45px;
+  padding: 17px 35px;
+  border: none;
+}
+.business_section {
+  /* height: 472px; */
+  background-color: #a99f4d;
+  text-align: center;
+}
+.business_info {
+  font-size: 101px;
+  line-height: 93px;
+  letter-spacing: -6%;
+  color: white;
+}
+.business_info > span {
+  font-size: 50px;
+}
+.business_content {
+  padding-top: 152px;
+  padding-bottom: 122px;
+}
+.business_text {
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: 400;
+  color: white;
+}
+.our_edge {
+  /* width: 100; */
+  padding-left: 87px;
+  padding-right: 83px;
+  position: relative;
+  background-color: #1f3d4c;
+  background-image: url(./assets/bg_edge.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.our_edge_title {
+  padding-top: 217px;
+  padding-bottom: 82px;
+  color: white;
+  font-size: 90px;
+  font-weight: 400px;
+  line-height: 80px;
+  font: "Playfair Display";
+}
+.edge_content {
+  padding-bottom: 113px;
+}
+.edge-content-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  /* or 150% */
+  text-align: justify;
+  text-transform: capitalize;
+  /* Nisk-brand gold color */
+  color: #a99f4d;
+}
+
+.edge-content-description {
+  color: white;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 27px;
+  padding-bottom: 0px;
+  /* or 193% */
+
+  text-align: justify;
+  text-transform: capitalize;
+}
+.first_margin {
+  margin-right: 85px;
+}
+.second_margin {
+  margin-right: 130px;
+}
+.edge_image {
+  padding: 0px;
+  position: absolute;
+  right: 78px;
+  top: -46px;
+}
